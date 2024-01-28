@@ -1,14 +1,14 @@
 ---
 author: ErZ
 pubDatetime: 2024-01-28T13:30:02.00Z
-title: Top Gun: Maverick OST
+title: Top Gun Maverick OST
 slug: Top-Gun-Maverick
 featured: false
 draft: false
 tags:
-  - Collection
+  - OST
 description:
-  Top Gun: Maverick OST
+  Top Gun Maverick OST
 ---
 Type: OST<br>
 Name: Top Gun: Maverick OST<br>

@@ -6,7 +6,7 @@ slug: Suicide-Squad
 featured: false
 draft: false
 tags:
-  - Collection
+  - OST
 description:
   Suicide Squad OST
 ---

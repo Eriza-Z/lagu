@@ -6,7 +6,7 @@ slug: Assassins-Creed-Odyssey-OST
 featured: false
 draft: false
 tags:
-  - Collection
+  - OST
 description:
   Assassin's Creed Odyssey OST
 ---

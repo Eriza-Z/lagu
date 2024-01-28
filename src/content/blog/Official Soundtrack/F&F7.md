@@ -6,7 +6,7 @@ slug: FnF7
 featured: false
 draft: false
 tags:
-  - Collection
+  - OST
 description:
   Fast and Furious 7 Official Soundtrack
 ---

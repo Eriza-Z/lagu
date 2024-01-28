@@ -6,9 +6,9 @@ slug: Spider-Man-Into-and-Across-the-Spider-Verse
 featured: false
 draft: false
 tags:
-  - Collection
+  - OST
 description:
-  Spider-Man: Into & Across the Spider-Verse Official Soundtrack
+  Spider-Man Into & Across the Spider-Verse Official Soundtrack
 ---
 Type: OST<br>
 Name: Spider-Man: Into & Across the Spider-Verse Official Soundtrack<br>
